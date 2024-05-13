@@ -36,7 +36,7 @@ The Task5 component is responsible for implementing logic to select clients base
 
 #### Functionality:
 1. The component provides an input field labeled 'C', allowing users to specify the threshold value.
-2. Upon entering a value for 'C', the component dynamically updates the list of selectegit rm -r --cached .d clients based on the specified threshold.
+2. Upon entering a value for 'C', the component dynamically updates the list of selected clients based on the specified threshold.
 3. The selected clients are displayed along with their IDs and names in the result section.
 
 #### Usage:
